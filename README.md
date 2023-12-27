@@ -1,1 +1,1 @@
-# CGB_GAN
+# GANs_Trial
